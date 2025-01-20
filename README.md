@@ -21,9 +21,3 @@ All set run the project
 php artisan serve
 ```
 
-## Thanks for downloading this project!
-
--   Project Name: Lara Fire
--   Project URL: https://github.com/suhasrkms/lara-fire
--   Author: Suhas R
--   Author URL: https://suhasrkms.github.io
